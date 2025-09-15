@@ -1,9 +1,14 @@
 FROM denoland/deno:2.5.0
+ARG FOLDER=/app
 
-WORKDIR /app
+WORKDIR ${FOLDER}
 
 COPY . . 
 
 EXPOSE 8000
+
+RUN mkdir -p /deno-dir && chown -R 1000:1000 /deno-dir
+
+USER 1000:1000
 
 CMD ["deno", "task", "dev"]
