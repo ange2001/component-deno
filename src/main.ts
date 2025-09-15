@@ -1,4 +1,3 @@
-
 Deno.serve((_req) => {
   const diploiHTML = `
   <!DOCTYPE html>
@@ -101,8 +100,7 @@ Deno.serve((_req) => {
         automatically reload as you make changes.
         <br /><br />
         <b> Install dependencies: </b><br />
-        Please use <code>deno install package_name</code> to add Deno packages to your
-        environment.
+        No <code>deno install package_name</code> is required, as new import in TypeScript files will trigger Deno to automatically download and cache those modules as needed.
       </p>
 
       <hr />
@@ -112,7 +110,6 @@ Deno.serve((_req) => {
       /></a>
     </body>
   </html>`;
-
 
   return new Response(diploiHTML, {
     headers: { "content-type": "text/html; charset=utf-8" },

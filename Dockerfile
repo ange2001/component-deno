@@ -3,8 +3,7 @@
 FROM denoland/deno:2.5.0 AS builder
 ARG FOLDER=/app
 WORKDIR ${FOLDER}
-COPY . .
-RUN mkdir -p /deno-dir && chown -R 1000:1000 /deno-dir
+COPY . /app
 RUN deno cache .
 
 # Production stage
