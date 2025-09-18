@@ -3,10 +3,6 @@ type: component
 name: Deno
 description: Official Diploi component for Deno
 
-contexts:
-  - name: app
-    identifier: app
-
 hosts:
   - name: Deno
     identifier: app
@@ -15,8 +11,3 @@ hosts:
 images:
   - identifier: app
     prebuildImage: ghcr.io/diploi/component-deno:[tag]
-
-logs:
-  - name: Deno Log
-    type: log
-    labelSelector: app=app
