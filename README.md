@@ -6,6 +6,8 @@
 [![component on diploi badge](https://diploi.com/component.svg)](https://diploi.com/component/deno)
 [![latest tag badge](https://badgen.net/github/tag/diploi/component-deno)](https://diploi.com/component/deno)
 
+Start a demo, no card required https://diploi.com/component/deno
+
 A generic Deno component that can be used to run any Deno app.
 
 Uses the official [Deno](https://hub.docker.com/r/denoland/deno) Docker image.
@@ -19,6 +21,9 @@ Uses the official [Deno](https://hub.docker.com/r/denoland/deno) Docker image.
 3. In **Pick Add-ons**, you can add one or multiple databases to your app
 4. Choose **Create Repository**, which will generate a new GitHub repo
 5. Lastly, click **Launch Stack**
+
+Link to guide, explains how to add a custom domain and launch to production
+https://diploi.com/blog/hosting_deno_apps
 
 ### Development
 
