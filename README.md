@@ -6,8 +6,6 @@
 [![component on diploi badge](https://diploi.com/component.svg)](https://diploi.com/component/deno)
 [![latest tag badge](https://badgen.net/github/tag/diploi/component-deno)](https://diploi.com/component/deno)
 
-Start a demo, no card required https://diploi.com/component/deno
-
 A generic Deno component that can be used to run any Deno app.
 
 Uses the official [Deno](https://hub.docker.com/r/denoland/deno) Docker image.
@@ -40,3 +38,7 @@ Builds a production-ready image. Runs `deno task prod` to start your app with ne
 deno run --allow-net --allow-env src/main.ts
 ```
 Dependencies are cached during the build stage using `deno cache .`.
+
+## Links
+
+-   [Deno documentation](https://docs.deno.com/runtime/)
